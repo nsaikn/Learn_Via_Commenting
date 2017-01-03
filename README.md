@@ -1,0 +1,1 @@
+This is going to be a series of code submission from the dailyprogrammer subreddit and I will comment the code line by line. This is to improve my understanding of the principles of the respective langauges, tips and tricks used by other coders and to be able to better follow along code. 
